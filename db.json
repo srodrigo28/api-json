@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "name": "Sebastião Rodrigo",
+      "email": "rodrigoexer1@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Edson Sousa Luis",
+      "email": "edsonsousa@terra.com",
+      "id": 2
+    }
+  ],
+  "contas": [
+    {
+      "descricao": "Energia Maio",
+      "valor": 190,
+      "id": 1
+    },
+    {
+      "descricao": "Internet",
+      "valor": 399,
+      "id": 2
+    }
+  ],
+  "lembrete": [
+    {"id": 1, "descricao": "pagar escola", "data": "20/02/2023"},
+    {"id": 2, "descricao": "pagar energia", "data": "20/02/2023"},
+    {"id": 3, "descricao": "pagar internet", "data": "20/02/2023"}
+  ]
+}
